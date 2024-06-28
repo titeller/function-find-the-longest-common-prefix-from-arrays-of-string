@@ -1,3 +1,5 @@
+### a function to find the longest common prefix string amongst an array of strings.
+
 ```typescript
 function longestCommonPrefix(strs: string[]): string {
     if (!strs || strs.length === 0) {
